@@ -1,2 +1,3 @@
 Branch A: Commit 1
 Branch A: Commit 2
+Branch A: Commit 3
